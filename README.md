@@ -1,3 +1,5 @@
+![](http://doora.qiniudn.com/WechatIMG5.jpeg)
+
 ### Install
 
 `npm install -g kuee`
